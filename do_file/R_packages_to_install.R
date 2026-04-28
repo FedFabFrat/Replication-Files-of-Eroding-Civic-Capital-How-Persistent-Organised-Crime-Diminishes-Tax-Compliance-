@@ -1,0 +1,21 @@
+### REPLICATION OF: Eroding Civic Capital: How Persistent Organised Crime Diminishes Tax Compliance ###
+
+### INSTALL THE FOLLOWING R PACKAGES ###
+install.packages("sf")
+install.packages("dplyr")
+install.packages("ggplot2")
+install.packages("haven")
+install.packages("ggpubr")
+install.packages("tidyverse")
+install.packages("data.table")
+install.packages("quanteda")
+install.packages("quanteda.textmodels")
+install.packages("quanteda.textstats")
+install.packages("quanteda.textplots")
+install.packages("readtext")
+install.packages("devtools")
+install.packages("newsmap")
+install.packages("seededlda")
+install.packages("tm")
+install.packages("topicmodels")
+install.packages("tidytext")
