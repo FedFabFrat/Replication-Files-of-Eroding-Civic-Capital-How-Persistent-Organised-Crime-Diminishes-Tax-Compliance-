@@ -143,10 +143,3 @@ Panel dataset at the municipality-decade level. Unit of observation: municipalit
 | `nfirms_*` | Number of firms by sector (time-varying) |
 | `*_1950` | Baseline (1950) controls interacted with decade dummies in regressions |
 
----
-
-## Notes
-
-- **Dropped from original dataset:** 13 variables not used in any analysis script were removed (`tasso_occupazione`, `part_mercato_lavoro_f`, their 1950 baselines, sector-20 firm/employment counts, and raw seizure component counts). These can be recovered from the full replication package.
-- **Figure A6** (newspaper screenshot) is not reproducible from code by design.
-- All monetary values and counts are as originally collected; no additional transformations beyond those coded in the do-files are applied.
