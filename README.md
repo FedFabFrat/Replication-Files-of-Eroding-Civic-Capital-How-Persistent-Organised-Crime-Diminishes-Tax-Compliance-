@@ -1,7 +1,7 @@
 # Replication Package — *Eroding Civic Capital: How Persistent Organised Crime Diminishes Tax Compliance*
 
 **Authors:** Francesca Maria Calamunci & Federico Fabio Frattini  
-**Journal:** Journal of Law, Economics & Organization (JLEO), Manuscript MS7010
+**Journal:** Journal of Law, Economics & Organization (JLEO)
 
 ---
 
